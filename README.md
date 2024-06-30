@@ -1,4 +1,4 @@
-![Header]("https://github.com/D-roy-2003/D-roy-2003/blob/main/profiles/git_img.png")
+[![MasterHead](profiles/git_img.png)]
 <h1 align="center">Hi 👋, I'm Debangshu Roy</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 <img align="right" alt=""coding" width="400" src="https://images.app.goo.gl/ES3t6DBRBdcaMDFE9">
