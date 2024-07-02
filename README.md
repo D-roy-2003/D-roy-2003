@@ -12,7 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debangshu-roy" target="blank"><img align="center" src="https://www.linkedin.com/in/debangshu-roy-5531b8272/" alt="debangshu-roy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/debangshu-roy-5531b8272/" target="newpage">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="40" alt="linkedin logo"  />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
