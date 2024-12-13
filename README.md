@@ -1,5 +1,5 @@
 ![MasterHead](profiles/git_8.png)
-<h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
+<h3 align="center">A passionate Developer and ML enthusiast from India</h3>
 <img align="right" alt=""coding" width="400" src="https://images.app.goo.gl/ES3t6DBRBdcaMDFE9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d-roy-2003&label=Profile%20views&color=0e75b6&style=flat" alt="d-roy-2003" /> </p>
